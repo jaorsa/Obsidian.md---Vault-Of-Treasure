@@ -1,0 +1,30 @@
+
+button.mod-cta{
+    /* background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%) !important; */
+    /* background: transparent; */
+    background: #9795f0 !important;
+    color: #fdfbfb !important;
+}
+
+.checkbox-container.is-enabled{
+    background: #9795f0 !important;
+    /* background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%) !important; */
+    /* background: transparent; */
+}
+
+.modal.mod-settings .modal-content {
+    background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%) !important;
+    background: transparent ;
+}
+
+.modal.mod-settings .vertical-tab-header{
+    background: transparent ;
+}
+
+.horizontal-tab-nav-item, .vertical-tab-nav-item{
+    background: transparent ;
+}
+
+.horizontal-tab-content, .vertical-tab-content{
+    background: transparent;
+} 

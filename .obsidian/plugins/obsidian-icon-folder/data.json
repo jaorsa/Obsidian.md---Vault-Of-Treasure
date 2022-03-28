@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "enableRemixiconsLine": true,
+    "enableRemixiconsFill": true,
+    "enableFontawesomeFill": true,
+    "enableFontawesomeLine": true,
+    "enableFontawesomeBrands": true,
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FaCalendarFill",
+      "RiSwordFill",
+      "FaImagesFill",
+      "FaChartPieFill",
+      "RiArchiveDrawerFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "040 Archive": "RiArchiveDrawerFill",
+  "030 Resources/PDF's Folder": "FaFilePdfFill",
+  "030 Resources/Recordings Folder": "FaPhotoVideoFill",
+  "030 Resources/Audio's Folder": "FaFileAudioFill",
+  "030 Resources": "FaBoxOpenFill",
+  "020 Areas": "FaChartPieFill",
+  "030 Resources/Gallery Folder": "FaImagesFill",
+  "Daily Quests": "RiSwordFill",
+  "Feb 14th, 2022.md": "FaCalendarFill"
+}

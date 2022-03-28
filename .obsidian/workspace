@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "937447cda05884bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b3e4cf2447ae2ae",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "030 Resources/PDF's Folder/Guia CENEVAL EGEL-ISOFT 2022 CONTESTADA.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a2940ad2554b2f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bf7a7a9ecda2a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e8cc7c2846ec0a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd8146ca3a2d6f5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4771827f43d2288a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f383aa044252b77",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "right": {
+    "id": "51db350a9c127eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebb27ff17009b929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3578510417002b5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbb4366164d180e0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4b171c528f61a6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "595efd530391b991",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b8ef442575fb10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "030 Resources/PDF's Folder/Guia CENEVAL EGEL-ISOFT 2022 CONTESTADA.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b1fc16d59317b6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "030 Resources/PDF's Folder/Guia CENEVAL EGEL-ISOFT 2022 CONTESTADA.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8b3e4cf2447ae2ae",
+  "lastOpenFiles": [
+    "030 Resources/PDF's Folder/Guia CENEVAL EGEL-ISOFT 2022 CONTESTADA.pdf",
+    "030 Resources/PDF's Folder/EGEL INGENIERIA SOFTWARE 2022.pdf",
+    "030 Resources/PDF's Folder/Guía-desbloqueado.pdf",
+    "030 Resources/PDF's Folder/PDF's Folder.md",
+    "030 Resources/030 Resources.md",
+    "Repaso Ceneval/Repaso de Redes.md",
+    "030 Resources/PDF's Folder/RecruitingTrendsThatWillShape2021-2022.pdf",
+    "010 Active Projects/Complete a FrontendMasters learning path/Web UX Design for High Converting Websites/Course Content/Lectures Notes/Session Three Agenda.md",
+    "010 Active Projects/Complete a FrontendMasters learning path/Web UX Design for High Converting Websites/Course Content/Lectures Notes/Session Two Agenda.md",
+    "030 Resources/Gallery Folder/1-1 The problem of stress.md"
+  ]
+}

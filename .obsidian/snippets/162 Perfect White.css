@@ -1,0 +1,42 @@
+/* -------------------------------------------------------------- Settings Window -------------------------------------------------------------- */
+button.mod-cta{
+    background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%) !important;
+    background: transparent;
+    color: #fdfbfb !important;
+}
+
+
+.modal.mod-settings .modal-content {
+    background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%) !important;
+    background: transparent ;
+}
+
+.modal.mod-settings .vertical-tab-header{
+    background: transparent ;
+}
+
+.horizontal-tab-nav-item, .vertical-tab-nav-item{
+    background: transparent ;
+}
+
+.horizontal-tab-content, .vertical-tab-content{
+    background: transparent;
+} 
+
+.checkbox-container.is-enabled{
+    background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%) !important;
+    background: transparent;
+}
+
+/* ------------------------------------------------------- Settings Window closing comment ------------------------------------------------------- */
+
+/* -------------------------------------------------------------- Content View -------------------------------------------------------------- */
+
+.markdown-source-view.mod-cm6{
+    background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%) !important;
+    background: transparent ;
+}
+
+.cm-header-1{
+    color: #434343 !important;
+}

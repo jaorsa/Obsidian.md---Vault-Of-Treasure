@@ -1,0 +1,232 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:700,400';
+
+/* Courier Prime */
+
+/* body{
+    font-family: 'Courier Prime', monospace;
+}
+
+.cm-line{
+    font-family: 'Courier Prime', monospace;
+} */
+
+
+/* Anonymous Pro */
+/* body{
+    font-family: 'Anonymous Pro', monospace !important;
+}
+
+.cm-line{
+    font-family: 'Anonymous Pro', monospace !important;
+} */
+
+.table-view-table > thead > tr > th{
+    font-family: 'Anonymous Pro', monospace !important;
+    color: rgb(36, 198, 220);
+    background-color: rgb(41, 63, 66);
+    border-bottom-color: white !important;
+
+    /* border-image: linear-gradient(130deg, rgb(36, 198, 220), rgb(84, 51, 255) 41.07%, rgb(255, 0, 153) 76.05%);
+    border-image-slice: 1; */
+}
+
+a, .markdown-preview-view .internal-link{
+    /* color: rgb(36, 198, 220); */
+    font-family: 'Anonymous Pro', monospace !important;
+}
+
+
+
+/* Space Mono */
+/* body{
+    font-family: 'Space Mono', monospace;
+}
+
+.cm-line{
+    font-family: 'Space Mono', monospace;
+} */
+
+/* Rubik */
+/* body{
+    font-family: Rubik,Avenir,Helvetica,Arial,sans-serif !important;
+}
+
+.cm-line{
+    font-family: Rubik,Avenir,Helvetica,Arial,sans-serif !important;
+} */
+
+
+/* Lexend Deca */
+/* body{
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 100;
+}
+
+.cm-line{
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 100;
+} */
+
+/* Le Havre Rounded */
+/* body {
+    font-family: 'le-havre-rounded-thin', sans-serif;
+    font-weight: 400;
+    line-height: 1.20;
+    opacity: 1.00;
+    letter-spacing: 0;
+}
+
+.cm-line{
+    font-family: 'le-havre-rounded-thin', sans-serif;
+    font-weight: 400;
+    line-height: 1.20;
+    opacity: 1.00;
+    letter-spacing: 0;
+}
+
+.cm-header-1 {
+    font-family: "le-havre-rounded-thin", sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 1.20;
+    opacity: 1.00;
+    letter-spacing: -0.72px;
+} */
+
+/* Le Havre Rounded Closing Comment*/
+
+/* Quagmire font */
+/* body {
+    font-family: 'quagmire-medium', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.60;
+    opacity: 0.70;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    letter-spacing: -0.30px;
+    word-spacing: -0.10px;
+    text-transform: none;
+}
+
+.cm-line{
+    font-family: 'quagmire-medium', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.60;
+    opacity: 0.70;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    letter-spacing: -0.30px;
+    word-spacing: -0.10px;
+    text-transform: none;
+} */
+
+
+/* body{
+    font-family: "quiet-sans-extralight", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.60;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    letter-spacing: -0.30px;
+    word-spacing: -0.10px;
+    text-transform: none;
+}
+
+.cm-line{
+    font-family: "quiet-sans-extralight", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.60;
+    opacity: 0.70;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    letter-spacing: -0.30px;
+    word-spacing: -0.10px;
+    text-transform: none;
+} */
+
+/* body {
+    font-family: "Reem Kufi", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.60;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    letter-spacing: -0.30px;
+    word-spacing: -0.10px;
+    text-transform: none;
+}
+
+.cm-line {
+    font-family: "Reem Kufi", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.60;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    letter-spacing: -0.30px;
+    word-spacing: -0.10px;
+    text-transform: none;
+} */
+
+/* Lato */
+.cm-line {
+    font-family: 'proxima-nova-thin', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.60;
+    opacity: 0.70;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    letter-spacing: -0.30px;
+    word-spacing: -0.10px;
+    text-transform: none;
+}
+
+body {
+    font-family: 'proxima-nova-thin', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.60;
+    opacity: 0.70;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    letter-spacing: -0.30px;
+    word-spacing: -0.10px;
+    text-transform: none;
+}
+
+
+
+.workspace-leaf.mod-active .view-header{
+    /* height: 36px;
+    display: flex; */
+    /* border-top: 1px solid var(#82ffc9) ; */
+    /* border-bottom: 2px solid #82ffc9; */
+    border: 0px;
+    border-bottom: 4px solid;
+    /* border-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%); */
+    /* border-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%); */
+    border-image: linear-gradient(45deg, hsl(340, 45%, 50%), hsl(340, 45%, 80%) 76.05%);
+    box-shadow: 0px 0px 5px 5px #000000;
+    /* border-image: linear-gradient(to right, rgb(0, 210, 255), rgb(58, 123, 213)); */
+    border-image-slice: 1;
+    color: white;
+    z-index: 1;
+}
+
+.cm-header-1 {
+    color: white;
+    background:
+    linear-gradient(
+        130deg, 
+        hsl(340, 45%, 50%), 
+        hsl(340, 45%, 80%) 76.05%);
+  background-size: 100% 3px, 0 3px;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  border-radius: 1px;
+}

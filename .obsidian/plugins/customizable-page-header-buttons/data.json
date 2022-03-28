@@ -1,0 +1,23 @@
+{
+  "enabledButtons": [
+    {
+      "id": "quickadd:runQuickAdd",
+      "icon": "feather-loader",
+      "name": "QuickAdd: Run QuickAdd",
+      "showButtons": "both"
+    },
+    {
+      "id": "obsidian-memos:open-memos",
+      "icon": "feather-feather",
+      "name": "Obsidian Memos: Open Memos",
+      "showButtons": "both"
+    },
+    {
+      "id": "homepage:open-homepage",
+      "icon": "feather-home",
+      "name": "Homepage: Open homepage",
+      "showButtons": "both"
+    }
+  ],
+  "desktop": true
+}
