@@ -1,0 +1,51 @@
+body {
+    /* color: white;    */
+}
+
+/* "background-color: transparent !important; border: transparent 1px solid; border-top: #23e5f3af 2px solid; border-left: #34ec7ab9 1px solid; border-radius: 10px; box-shadow: inset -4px -4px 4px -3px #cc0aa2d0;" */
+
+.item {
+    /*css_comment: item box border*/
+    font-family: Rubik,Avenir,Helvetica,Arial,sans-serif;
+    background-color: transparent !important;
+    border: transparent 1px solid;
+    border-top: #23e5f3af 2px solid;
+    border-left: #34ec7ab9 1px solid;
+    border-radius: 10px;
+    box-shadow: inset -4px -4px 4px -3px #cc0aa2d0;
+    /* Original content
+    border: 1px solid var(--background-modifier-border);
+    */
+    padding: 10px;
+    margin-bottom: .5rem;
+}
+
+.item:hover {
+    background: linear-gradient(rgb(7, 31, 66), #42083f);
+    color:rgb(202, 217, 224);
+    animation: hueRotation 7s linear infinite;
+}
+
+@keyframes hueRotation {
+    to {filter: hue-rotate(360deg);}
+}
+
+
+p {
+    margin: 0;
+}
+
+.center_flex {
+    display: flex;
+    justify-content: center;
+}
+
+.error_msg {
+    color: orange;
+    margin-bottom: .5rem;
+}
+
+.modal_disabled_submit_btn {
+    background-color: lightgrey !important;
+    color: gray !important;
+}

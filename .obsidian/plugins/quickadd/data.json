@@ -1,0 +1,20 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "Date Update",
+      "id": "26db5a76-35a8-4179-af7b-5c08a0292591",
+      "commands": [
+        {
+          "name": "DateUpdate",
+          "type": "UserScript",
+          "id": "22a71f3b-027d-40ed-a4f4-091cc37aef4e",
+          "path": "030 Resources/Scripts Folder/DateUpdate.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": true
+    }
+  ],
+  "inputPrompt": "single-line"
+}

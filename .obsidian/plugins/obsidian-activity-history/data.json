@@ -1,0 +1,974 @@
+{
+  "firstRun": false,
+  "initialized": [
+    {
+      "path": "/",
+      "initialized": true
+    },
+    {
+      "path": "010 Active Projects",
+      "initialized": true
+    },
+    {
+      "path": "010 Active Projects/Earn a certificate in Coursera",
+      "initialized": true
+    },
+    {
+      "path": "010 Active Projects/Earn a certificate in Coursera/Build Personal Resilience",
+      "initialized": true
+    },
+    {
+      "path": "Success Plan",
+      "initialized": true
+    }
+  ],
+  "trackedProjects": [
+    "/",
+    "010 Active Projects",
+    "010 Active Projects/Earn a certificate in Coursera",
+    "010 Active Projects/Earn a certificate in Coursera/Build Personal Resilience",
+    "Success Plan"
+  ],
+  "checkpointList": [
+    {
+      "path": "/",
+      "date": "2022-03-28",
+      "size": 103311
+    },
+    {
+      "path": "010 Active Projects",
+      "date": "2022-03-28",
+      "size": 15728
+    },
+    {
+      "path": "010 Active Projects/Earn a certificate in Coursera",
+      "date": "2022-03-28",
+      "size": 2490
+    },
+    {
+      "path": "010 Active Projects/Earn a certificate in Coursera/Build Personal Resilience",
+      "date": "2022-03-28",
+      "size": 1653
+    },
+    {
+      "path": "Success Plan",
+      "date": "2022-03-28",
+      "size": 0
+    }
+  ],
+  "activityHistory": [
+    {
+      "path": "/",
+      "size": [
+        {
+          "date": "2022-02-07",
+          "value": 2400
+        },
+        {
+          "date": "2022-02-08",
+          "value": 2472
+        },
+        {
+          "date": "2022-02-09",
+          "value": 322
+        },
+        {
+          "date": "2022-02-10",
+          "value": 262
+        },
+        {
+          "date": "2022-02-11",
+          "value": 1737
+        },
+        {
+          "date": "2022-02-12",
+          "value": 5401
+        },
+        {
+          "date": "2022-02-13",
+          "value": 56839
+        },
+        {
+          "date": "2022-02-14",
+          "value": 1442
+        },
+        {
+          "date": "2022-02-19",
+          "value": 8861
+        },
+        {
+          "date": "2022-02-20",
+          "value": 42
+        },
+        {
+          "date": "2022-02-21",
+          "value": 13782
+        },
+        {
+          "date": "2022-02-22",
+          "value": 695
+        },
+        {
+          "date": "2022-02-23",
+          "value": 4234
+        },
+        {
+          "date": "2022-02-24",
+          "value": 0
+        },
+        {
+          "date": "2022-02-26",
+          "value": 0
+        },
+        {
+          "date": "2022-02-27",
+          "value": 0
+        },
+        {
+          "date": "2022-02-28",
+          "value": 0
+        },
+        {
+          "date": "2022-03-01",
+          "value": 0
+        },
+        {
+          "date": "2022-03-02",
+          "value": 739
+        },
+        {
+          "date": "2022-03-03",
+          "value": 0
+        },
+        {
+          "date": "2022-03-04",
+          "value": 88
+        },
+        {
+          "date": "2022-03-05",
+          "value": 0
+        },
+        {
+          "date": "2022-03-06",
+          "value": 0
+        },
+        {
+          "date": "2022-03-07",
+          "value": 583
+        },
+        {
+          "date": "2022-03-08",
+          "value": 3733
+        },
+        {
+          "date": "2022-03-09",
+          "value": 136
+        },
+        {
+          "date": "2022-03-10",
+          "value": 0
+        },
+        {
+          "date": "2022-03-11",
+          "value": 0
+        },
+        {
+          "date": "2022-03-12",
+          "value": 0
+        },
+        {
+          "date": "2022-03-14",
+          "value": 0
+        },
+        {
+          "date": "2022-03-15",
+          "value": 688
+        },
+        {
+          "date": "2022-03-16",
+          "value": 370
+        },
+        {
+          "date": "2022-03-17",
+          "value": 720
+        },
+        {
+          "date": "2022-03-18",
+          "value": 20155
+        },
+        {
+          "date": "2022-03-19",
+          "value": 0
+        },
+        {
+          "date": "2022-03-20",
+          "value": 0
+        },
+        {
+          "date": "2022-03-21",
+          "value": 0
+        },
+        {
+          "date": "2022-03-22",
+          "value": 0
+        },
+        {
+          "date": "2022-03-23",
+          "value": 259
+        },
+        {
+          "date": "2022-03-24",
+          "value": 0
+        },
+        {
+          "date": "2022-03-25",
+          "value": 0
+        },
+        {
+          "date": "2022-03-26",
+          "value": 0
+        },
+        {
+          "date": "2022-03-27",
+          "value": 0
+        },
+        {
+          "date": "2022-03-28",
+          "value": 203
+        }
+      ]
+    },
+    {
+      "path": "010 Active Projects",
+      "size": [
+        {
+          "date": "2022-02-07",
+          "value": 500
+        },
+        {
+          "date": "2022-02-08",
+          "value": 1889
+        },
+        {
+          "date": "2022-02-09",
+          "value": 0
+        },
+        {
+          "date": "2022-02-10",
+          "value": 0
+        },
+        {
+          "date": "2022-02-11",
+          "value": 48
+        },
+        {
+          "date": "2022-02-12",
+          "value": 0
+        },
+        {
+          "date": "2022-02-13",
+          "value": 3294
+        },
+        {
+          "date": "2022-02-14",
+          "value": 37
+        },
+        {
+          "date": "2022-02-19",
+          "value": 5613
+        },
+        {
+          "date": "2022-02-20",
+          "value": 0
+        },
+        {
+          "date": "2022-02-21",
+          "value": 0
+        },
+        {
+          "date": "2022-02-22",
+          "value": 163
+        },
+        {
+          "date": "2022-02-23",
+          "value": 4184
+        },
+        {
+          "date": "2022-02-24",
+          "value": 0
+        },
+        {
+          "date": "2022-02-26",
+          "value": 0
+        },
+        {
+          "date": "2022-02-27",
+          "value": 0
+        },
+        {
+          "date": "2022-02-28",
+          "value": 0
+        },
+        {
+          "date": "2022-03-01",
+          "value": 0
+        },
+        {
+          "date": "2022-03-02",
+          "value": 763
+        },
+        {
+          "date": "2022-03-03",
+          "value": 0
+        },
+        {
+          "date": "2022-03-04",
+          "value": 4397
+        },
+        {
+          "date": "2022-03-05",
+          "value": 0
+        },
+        {
+          "date": "2022-03-06",
+          "value": 0
+        },
+        {
+          "date": "2022-03-07",
+          "value": 549
+        },
+        {
+          "date": "2022-03-08",
+          "value": 3756
+        },
+        {
+          "date": "2022-03-09",
+          "value": 0
+        },
+        {
+          "date": "2022-03-10",
+          "value": 0
+        },
+        {
+          "date": "2022-03-11",
+          "value": 0
+        },
+        {
+          "date": "2022-03-12",
+          "value": 0
+        },
+        {
+          "date": "2022-03-14",
+          "value": 0
+        },
+        {
+          "date": "2022-03-15",
+          "value": 0
+        },
+        {
+          "date": "2022-03-16",
+          "value": 352
+        },
+        {
+          "date": "2022-03-17",
+          "value": 705
+        },
+        {
+          "date": "2022-03-18",
+          "value": 145
+        },
+        {
+          "date": "2022-03-19",
+          "value": 0
+        },
+        {
+          "date": "2022-03-20",
+          "value": 0
+        },
+        {
+          "date": "2022-03-21",
+          "value": 0
+        },
+        {
+          "date": "2022-03-22",
+          "value": 0
+        },
+        {
+          "date": "2022-03-23",
+          "value": 0
+        },
+        {
+          "date": "2022-03-24",
+          "value": 0
+        },
+        {
+          "date": "2022-03-25",
+          "value": 0
+        },
+        {
+          "date": "2022-03-26",
+          "value": 0
+        },
+        {
+          "date": "2022-03-27",
+          "value": 0
+        },
+        {
+          "date": "2022-03-28",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "path": "010 Active Projects/Earn a certificate in Coursera",
+      "size": [
+        {
+          "date": "2022-02-07",
+          "value": 6
+        },
+        {
+          "date": "2022-02-08",
+          "value": 1682
+        },
+        {
+          "date": "2022-02-09",
+          "value": 0
+        },
+        {
+          "date": "2022-02-10",
+          "value": 0
+        },
+        {
+          "date": "2022-02-11",
+          "value": 48
+        },
+        {
+          "date": "2022-02-12",
+          "value": 0
+        },
+        {
+          "date": "2022-02-13",
+          "value": 0
+        },
+        {
+          "date": "2022-02-14",
+          "value": 0
+        },
+        {
+          "date": "2022-02-19",
+          "value": 0
+        },
+        {
+          "date": "2022-02-20",
+          "value": 0
+        },
+        {
+          "date": "2022-02-21",
+          "value": 0
+        },
+        {
+          "date": "2022-02-22",
+          "value": 0
+        },
+        {
+          "date": "2022-02-23",
+          "value": 0
+        },
+        {
+          "date": "2022-02-24",
+          "value": 0
+        },
+        {
+          "date": "2022-02-26",
+          "value": 0
+        },
+        {
+          "date": "2022-02-27",
+          "value": 0
+        },
+        {
+          "date": "2022-02-28",
+          "value": 0
+        },
+        {
+          "date": "2022-03-01",
+          "value": 0
+        },
+        {
+          "date": "2022-03-02",
+          "value": 0
+        },
+        {
+          "date": "2022-03-03",
+          "value": 0
+        },
+        {
+          "date": "2022-03-04",
+          "value": 0
+        },
+        {
+          "date": "2022-03-05",
+          "value": 0
+        },
+        {
+          "date": "2022-03-06",
+          "value": 0
+        },
+        {
+          "date": "2022-03-07",
+          "value": 0
+        },
+        {
+          "date": "2022-03-08",
+          "value": 0
+        },
+        {
+          "date": "2022-03-09",
+          "value": 0
+        },
+        {
+          "date": "2022-03-10",
+          "value": 0
+        },
+        {
+          "date": "2022-03-11",
+          "value": 0
+        },
+        {
+          "date": "2022-03-12",
+          "value": 0
+        },
+        {
+          "date": "2022-03-14",
+          "value": 0
+        },
+        {
+          "date": "2022-03-15",
+          "value": 0
+        },
+        {
+          "date": "2022-03-16",
+          "value": 0
+        },
+        {
+          "date": "2022-03-17",
+          "value": 0
+        },
+        {
+          "date": "2022-03-18",
+          "value": 0
+        },
+        {
+          "date": "2022-03-19",
+          "value": 0
+        },
+        {
+          "date": "2022-03-20",
+          "value": 0
+        },
+        {
+          "date": "2022-03-21",
+          "value": 0
+        },
+        {
+          "date": "2022-03-22",
+          "value": 0
+        },
+        {
+          "date": "2022-03-23",
+          "value": 0
+        },
+        {
+          "date": "2022-03-24",
+          "value": 0
+        },
+        {
+          "date": "2022-03-25",
+          "value": 0
+        },
+        {
+          "date": "2022-03-26",
+          "value": 0
+        },
+        {
+          "date": "2022-03-27",
+          "value": 0
+        },
+        {
+          "date": "2022-03-28",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "path": "010 Active Projects/Earn a certificate in Coursera/Build Personal Resilience",
+      "size": [
+        {
+          "date": "2022-02-07",
+          "value": 6
+        },
+        {
+          "date": "2022-02-08",
+          "value": 1025
+        },
+        {
+          "date": "2022-02-09",
+          "value": 0
+        },
+        {
+          "date": "2022-02-10",
+          "value": 0
+        },
+        {
+          "date": "2022-02-11",
+          "value": 0
+        },
+        {
+          "date": "2022-02-12",
+          "value": 0
+        },
+        {
+          "date": "2022-02-13",
+          "value": 0
+        },
+        {
+          "date": "2022-02-14",
+          "value": 0
+        },
+        {
+          "date": "2022-02-19",
+          "value": 0
+        },
+        {
+          "date": "2022-02-20",
+          "value": 0
+        },
+        {
+          "date": "2022-02-21",
+          "value": 0
+        },
+        {
+          "date": "2022-02-22",
+          "value": 0
+        },
+        {
+          "date": "2022-02-23",
+          "value": 0
+        },
+        {
+          "date": "2022-02-24",
+          "value": 0
+        },
+        {
+          "date": "2022-02-26",
+          "value": 0
+        },
+        {
+          "date": "2022-02-27",
+          "value": 0
+        },
+        {
+          "date": "2022-02-28",
+          "value": 0
+        },
+        {
+          "date": "2022-03-01",
+          "value": 0
+        },
+        {
+          "date": "2022-03-02",
+          "value": 0
+        },
+        {
+          "date": "2022-03-03",
+          "value": 0
+        },
+        {
+          "date": "2022-03-04",
+          "value": 0
+        },
+        {
+          "date": "2022-03-05",
+          "value": 0
+        },
+        {
+          "date": "2022-03-06",
+          "value": 0
+        },
+        {
+          "date": "2022-03-07",
+          "value": 0
+        },
+        {
+          "date": "2022-03-08",
+          "value": 0
+        },
+        {
+          "date": "2022-03-09",
+          "value": 0
+        },
+        {
+          "date": "2022-03-10",
+          "value": 0
+        },
+        {
+          "date": "2022-03-11",
+          "value": 0
+        },
+        {
+          "date": "2022-03-12",
+          "value": 0
+        },
+        {
+          "date": "2022-03-14",
+          "value": 0
+        },
+        {
+          "date": "2022-03-15",
+          "value": 0
+        },
+        {
+          "date": "2022-03-16",
+          "value": 0
+        },
+        {
+          "date": "2022-03-17",
+          "value": 0
+        },
+        {
+          "date": "2022-03-18",
+          "value": 0
+        },
+        {
+          "date": "2022-03-19",
+          "value": 0
+        },
+        {
+          "date": "2022-03-20",
+          "value": 0
+        },
+        {
+          "date": "2022-03-21",
+          "value": 0
+        },
+        {
+          "date": "2022-03-22",
+          "value": 0
+        },
+        {
+          "date": "2022-03-23",
+          "value": 0
+        },
+        {
+          "date": "2022-03-24",
+          "value": 0
+        },
+        {
+          "date": "2022-03-25",
+          "value": 0
+        },
+        {
+          "date": "2022-03-26",
+          "value": 0
+        },
+        {
+          "date": "2022-03-27",
+          "value": 0
+        },
+        {
+          "date": "2022-03-28",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "path": "Success Plan",
+      "size": [
+        {
+          "date": "2022-02-07",
+          "value": 37
+        },
+        {
+          "date": "2022-02-08",
+          "value": 0
+        },
+        {
+          "date": "2022-02-09",
+          "value": 0
+        },
+        {
+          "date": "2022-02-10",
+          "value": 0
+        },
+        {
+          "date": "2022-02-11",
+          "value": 306
+        },
+        {
+          "date": "2022-02-12",
+          "value": 0
+        },
+        {
+          "date": "2022-02-13",
+          "value": 0
+        },
+        {
+          "date": "2022-02-14",
+          "value": 0
+        },
+        {
+          "date": "2022-02-19",
+          "value": 14434
+        },
+        {
+          "date": "2022-02-20",
+          "value": 0
+        },
+        {
+          "date": "2022-02-21",
+          "value": 0
+        },
+        {
+          "date": "2022-02-22",
+          "value": 0
+        },
+        {
+          "date": "2022-02-23",
+          "value": 0
+        },
+        {
+          "date": "2022-02-24",
+          "value": 0
+        },
+        {
+          "date": "2022-02-26",
+          "value": 0
+        },
+        {
+          "date": "2022-02-27",
+          "value": 0
+        },
+        {
+          "date": "2022-02-28",
+          "value": 0
+        },
+        {
+          "date": "2022-03-01",
+          "value": 0
+        },
+        {
+          "date": "2022-03-02",
+          "value": 0
+        },
+        {
+          "date": "2022-03-03",
+          "value": 0
+        },
+        {
+          "date": "2022-03-04",
+          "value": 0
+        },
+        {
+          "date": "2022-03-05",
+          "value": 0
+        },
+        {
+          "date": "2022-03-06",
+          "value": 0
+        },
+        {
+          "date": "2022-03-07",
+          "value": 0
+        },
+        {
+          "date": "2022-03-08",
+          "value": 0
+        },
+        {
+          "date": "2022-03-09",
+          "value": 0
+        },
+        {
+          "date": "2022-03-10",
+          "value": 0
+        },
+        {
+          "date": "2022-03-11",
+          "value": 0
+        },
+        {
+          "date": "2022-03-12",
+          "value": 0
+        },
+        {
+          "date": "2022-03-14",
+          "value": 0
+        },
+        {
+          "date": "2022-03-15",
+          "value": 0
+        },
+        {
+          "date": "2022-03-16",
+          "value": 0
+        },
+        {
+          "date": "2022-03-17",
+          "value": 0
+        },
+        {
+          "date": "2022-03-18",
+          "value": 0
+        },
+        {
+          "date": "2022-03-19",
+          "value": 0
+        },
+        {
+          "date": "2022-03-20",
+          "value": 0
+        },
+        {
+          "date": "2022-03-21",
+          "value": 0
+        },
+        {
+          "date": "2022-03-22",
+          "value": 0
+        },
+        {
+          "date": "2022-03-23",
+          "value": 0
+        },
+        {
+          "date": "2022-03-24",
+          "value": 0
+        },
+        {
+          "date": "2022-03-25",
+          "value": 0
+        },
+        {
+          "date": "2022-03-26",
+          "value": 0
+        },
+        {
+          "date": "2022-03-27",
+          "value": 0
+        },
+        {
+          "date": "2022-03-28",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "activityColor1": "#fffe75",
+  "activityColor2": "#ffadff",
+  "activityColor3": "#ff4cff",
+  "activityColor4": "#bd45ff",
+  "textColor": "#ffdcc0",
+  "emptyColor": "#fee6fe",
+  "cellRadius": 5,
+  "type": "yearly"
+}

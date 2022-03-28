@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 11,
+  "translucency": false,
+  "cssTheme": "Sanctum",
+  "enabledCssSnippets": [
+    "homepage setting",
+    "sharetype"
+  ],
+  "theme": "obsidian"
+}

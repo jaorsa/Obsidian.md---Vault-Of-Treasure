@@ -1,0 +1,22 @@
+{
+  "StartDate": "Sunday",
+  "InsertAfter": "# Journal",
+  "UserName": "♥ ♪ Jacky ♥ ♪",
+  "ProcessEntriesBelow": "",
+  "Language": "en",
+  "SaveMemoButtonLabel": "NoteIT",
+  "ShareFooterStart": "{MemosNum} Memos {UsedDay} Day",
+  "ShareFooterEnd": "✍️ by {UserName}",
+  "DefaultPrefix": "List",
+  "InsertDateFormat": "Tasks",
+  "DefaultEditorLocation": "Top",
+  "UseButtonToShowEditor": false,
+  "FocusOnEditor": true,
+  "OpenDailyMemosWithMemos": true,
+  "HideDoneTasks": false,
+  "OpenMemosAutomatically": false,
+  "ShowTime": true,
+  "ShowDate": true,
+  "AddBlankLineWhenDate": false,
+  "AutoSaveWhenOnMobile": false
+}
