@@ -7,9 +7,12 @@
         "id": "8b3e4cf2447ae2ae",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "030 Resources/PDF's Folder/Guia CENEVAL EGEL-ISOFT 2022 CONTESTADA.pdf"
+            "file": "00. Homepage.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -63,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,6 +106,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "f2222b944703c3c2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ]
       },
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "030 Resources/PDF's Folder/Guia CENEVAL EGEL-ISOFT 2022 CONTESTADA.pdf",
+                "file": "00. Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "030 Resources/PDF's Folder/Guia CENEVAL EGEL-ISOFT 2022 CONTESTADA.pdf"
+                "file": "00. Homepage.md"
               }
             }
           }
@@ -142,19 +152,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "8b3e4cf2447ae2ae",
   "lastOpenFiles": [
-    "030 Resources/PDF's Folder/Guia CENEVAL EGEL-ISOFT 2022 CONTESTADA.pdf",
-    "030 Resources/PDF's Folder/EGEL INGENIERIA SOFTWARE 2022.pdf",
-    "030 Resources/PDF's Folder/Guía-desbloqueado.pdf",
-    "030 Resources/PDF's Folder/PDF's Folder.md",
-    "030 Resources/030 Resources.md",
-    "Repaso Ceneval/Repaso de Redes.md",
-    "030 Resources/PDF's Folder/RecruitingTrendsThatWillShape2021-2022.pdf",
-    "010 Active Projects/Complete a FrontendMasters learning path/Web UX Design for High Converting Websites/Course Content/Lectures Notes/Session Three Agenda.md",
-    "010 Active Projects/Complete a FrontendMasters learning path/Web UX Design for High Converting Websites/Course Content/Lectures Notes/Session Two Agenda.md",
-    "030 Resources/Gallery Folder/1-1 The problem of stress.md"
+    "00. Homepage.md",
+    "Untitled.md",
+    "2022-02-14%DiaryQuest.md",
+    "10. Vault Changelog.md",
+    "Homepage.md",
+    "Player Card.md",
+    "Feb 14th, 2022.md",
+    "🏡 Success Plan Home.md",
+    "Obsidian.md---Vault-Of-Treasure/README.md",
+    "README.md"
   ]
 }
